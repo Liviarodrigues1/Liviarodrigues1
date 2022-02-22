@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lívia 👋
+### Olá! Eu sou a Lívia 👋
 
 <div align="center">
   <a href="https://github.com/Liviarodrigues1">
