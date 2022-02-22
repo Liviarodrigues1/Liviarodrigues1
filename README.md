@@ -5,6 +5,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Liviarodrigues1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviarodrigues1&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="75" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="C++" height="30" width="75" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
