@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Liviarodrigues1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liviarodrigues1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviarodrigues1&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liviarodrigues1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liviarodrigues1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="75" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
